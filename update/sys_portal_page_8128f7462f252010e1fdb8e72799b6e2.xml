@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-08 16:42:16">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>emmanuel.toche</sys_created_by>
+        <sys_created_on>2021-01-08 16:06:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8128f7462f252010e1fdb8e72799b6e2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_8128f7462f252010e1fdb8e72799b6e2</sys_update_name>
+        <sys_updated_by>emmanuel.toche</sys_updated_by>
+        <sys_updated_on>2021-01-08 16:07:24</sys_updated_on>
+        <title>PA Active Weekly</title>
+        <user/>
+        <view>pa_needit_application_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">8128f7462f252010e1fdb8e72799b6e2</page>
+                <summary>Acitve Weekly - BD </summary>
+                <sys_created_by>emmanuel.toche</sys_created_by>
+                <sys_created_on>2021-01-08 16:10:17</sys_created_on>
+                <sys_id>42e837862f252010e1fdb8e72799b6c7</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>emmanuel.toche</sys_updated_by>
+                <sys_updated_on>2021-01-08 16:15:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:17">42e837862f252010e1fdb8e72799b6c7</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:17</sys_created_on>
+                        <sys_id>0ee837862f252010e1fdb8e72799b6c8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:15:33</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:17">42e837862f252010e1fdb8e72799b6c7</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:17</sys_created_on>
+                        <sys_id>46e837862f252010e1fdb8e72799b6c7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:15:33</sys_updated_on>
+                        <value>59a9bb862f252010e1fdb8e72799b659</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:17">42e837862f252010e1fdb8e72799b6c7</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:17</sys_created_on>
+                        <sys_id>46e837862f252010e1fdb8e72799b6c8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:15:33</sys_updated_on>
+                        <value>Acitve Weekly - BD </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:17">42e837862f252010e1fdb8e72799b6c7</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:17</sys_created_on>
+                        <sys_id>82e837862f252010e1fdb8e72799b6c8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:10:17</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:17">42e837862f252010e1fdb8e72799b6c7</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:17</sys_created_on>
+                        <sys_id>8ee837862f252010e1fdb8e72799b6c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:10:17</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:17">42e837862f252010e1fdb8e72799b6c7</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:17</sys_created_on>
+                        <sys_id>cae837862f252010e1fdb8e72799b6c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:10:17</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">8128f7462f252010e1fdb8e72799b6e2</page>
+                <summary>Active Weekly score</summary>
+                <sys_created_by>emmanuel.toche</sys_created_by>
+                <sys_created_on>2021-01-08 16:11:31</sys_created_on>
+                <sys_id>8c397f862f252010e1fdb8e72799b6f3</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>emmanuel.toche</sys_updated_by>
+                <sys_updated_on>2021-01-08 16:13:09</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-08 17:11:31">8c397f862f252010e1fdb8e72799b6f3</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:11:31</sys_created_on>
+                        <sys_id>08397f862f252010e1fdb8e72799b6f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:11:31</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-08 17:11:31">8c397f862f252010e1fdb8e72799b6f3</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:11:31</sys_created_on>
+                        <sys_id>08397f862f252010e1fdb8e72799b6f5</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:13:09</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-08 17:11:31">8c397f862f252010e1fdb8e72799b6f3</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:11:31</sys_created_on>
+                        <sys_id>40397f862f252010e1fdb8e72799b6f5</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:13:09</sys_updated_on>
+                        <value>Active Weekly score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-08 17:11:31">8c397f862f252010e1fdb8e72799b6f3</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:11:31</sys_created_on>
+                        <sys_id>80397f862f252010e1fdb8e72799b6f4</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:13:09</sys_updated_on>
+                        <value>f479bf862f252010e1fdb8e72799b681</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-08 17:11:31">8c397f862f252010e1fdb8e72799b6f3</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:11:31</sys_created_on>
+                        <sys_id>8c397f862f252010e1fdb8e72799b6f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:11:31</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-08 17:11:31">8c397f862f252010e1fdb8e72799b6f3</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:11:31</sys_created_on>
+                        <sys_id>c8397f862f252010e1fdb8e72799b6f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:11:31</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">8128f7462f252010e1fdb8e72799b6e2</page>
+                <summary>Active Weekly Time</summary>
+                <sys_created_by>emmanuel.toche</sys_created_by>
+                <sys_created_on>2021-01-08 16:09:49</sys_created_on>
+                <sys_id>c7c837862f252010e1fdb8e72799b677</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>emmanuel.toche</sys_updated_by>
+                <sys_updated_on>2021-01-08 16:12:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-08 17:09:49">c7c837862f252010e1fdb8e72799b677</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:09:49</sys_created_on>
+                        <sys_id>07c837862f252010e1fdb8e72799b678</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:09:49</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-08 17:09:49">c7c837862f252010e1fdb8e72799b677</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:09:49</sys_created_on>
+                        <sys_id>43c837862f252010e1fdb8e72799b678</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:09:49</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-08 17:09:49">c7c837862f252010e1fdb8e72799b677</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:09:49</sys_created_on>
+                        <sys_id>43c837862f252010e1fdb8e72799b679</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:12:24</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-08 17:09:49">c7c837862f252010e1fdb8e72799b677</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:09:49</sys_created_on>
+                        <sys_id>8bc837862f252010e1fdb8e72799b678</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:12:24</sys_updated_on>
+                        <value>Active Weekly Time</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-08 17:09:49">c7c837862f252010e1fdb8e72799b677</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:09:49</sys_created_on>
+                        <sys_id>c7c837862f252010e1fdb8e72799b678</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:09:49</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-08 17:09:49">c7c837862f252010e1fdb8e72799b677</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:09:49</sys_created_on>
+                        <sys_id>cbc837862f252010e1fdb8e72799b677</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:12:24</sys_updated_on>
+                        <value>0d39bf862f252010e1fdb8e72799b657</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">8128f7462f252010e1fdb8e72799b6e2</page>
+                <summary>Active weekly BD</summary>
+                <sys_created_by>emmanuel.toche</sys_created_by>
+                <sys_created_on>2021-01-08 16:10:18</sys_created_on>
+                <sys_id>d6e87b862f252010e1fdb8e72799b649</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>emmanuel.toche</sys_updated_by>
+                <sys_updated_on>2021-01-08 16:16:42</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:18">d6e87b862f252010e1fdb8e72799b649</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:18</sys_created_on>
+                        <sys_id>16e87b862f252010e1fdb8e72799b64a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:10:18</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:18">d6e87b862f252010e1fdb8e72799b649</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:18</sys_created_on>
+                        <sys_id>52e87b862f252010e1fdb8e72799b64a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:10:18</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:18">d6e87b862f252010e1fdb8e72799b649</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:18</sys_created_on>
+                        <sys_id>52e87b862f252010e1fdb8e72799b64b</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:16:42</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:18">d6e87b862f252010e1fdb8e72799b649</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:18</sys_created_on>
+                        <sys_id>9ae87b862f252010e1fdb8e72799b64a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:16:42</sys_updated_on>
+                        <value>Active weekly BD</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:18">d6e87b862f252010e1fdb8e72799b649</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:18</sys_created_on>
+                        <sys_id>d6e87b862f252010e1fdb8e72799b64a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:10:18</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-08 17:10:18">d6e87b862f252010e1fdb8e72799b649</portal_section>
+                        <sys_created_by>emmanuel.toche</sys_created_by>
+                        <sys_created_on>2021-01-08 16:10:18</sys_created_on>
+                        <sys_id>dae87b862f252010e1fdb8e72799b649</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emmanuel.toche</sys_updated_by>
+                        <sys_updated_on>2021-01-08 16:16:42</sys_updated_on>
+                        <value>643ab3c62f252010e1fdb8e72799b6cb</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
